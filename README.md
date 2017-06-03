@@ -45,6 +45,37 @@ distribution of the DITA 1.3 schema for applications in XML editing
 workflows, such as may be applied in a manner principally independent
 of any single commercial vendor platform for DITA applications.
 
+## Licensing Terms
+
+Content not covered by the OASIS copyright on DITA 1.3 is provided
+under the terms of the Eclipse Public License - v 1.0. See the file
+'LICENSE'
+
+The official DITA 1.3 specification and associated schema, as
+published by the OASIS DITA TC, are provided under the following terms
+of copyright.
+
+> Copyright  OASIS Open 2015. All Rights Reserved.
+>
+> All capitalized terms in the following text have the meanings
+> assigned to them in the OASIS Intellectual Property Rights Policy
+> (the "OASIS IPR Policy"). The full Policy may be found at the OASIS
+> website.
+>
+> This document and translations of it may be copied and furnished to 
+> others, and derivative works that comment on or otherwise explain it 
+> or assist in its implementation may be prepared, copied, published,
+> and distributed, in whole or in part, without restriction of any
+> kind, provided that the above copyright notice and this section are
+> included on all such copies and derivative works. However, thisa
+> document itself may not be modified in any way, including by
+> removing the copyright notice or references to OASIS, except as
+> needed for the purpose of developing any document or deliverable
+> produced by an OASIS Technical Committee (in which case the rules
+> applicable to copyrights, as set forth in the OASIS IPR Policy, must
+> be followed) or as required to translate it into languages other
+> than English.
+
 ## More Information
 
 * [OASIS Darwin Information Typing Architecture (DITA) Version 1.3][dita-1.3]
