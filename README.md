@@ -28,21 +28,22 @@ The _All-Inclusive_ edition is available as follows
   **All-Inclusive Edition** [(HTML)][dita-1.3-allinc-html][(PDF)][dita-1.3-allinc-pdf]
 
 This repository is constructed from the contents of the distribution of
-the DITA 1.3 specification, [published in a combined format][dita-1.3-zip],
-within a "Zip" archive file available via the OASIS DITA TC. The same
-archive file -- available at approimately 47 megabytes, in compressed
-form -- includes formal schema or _grammars_ for DITA 1.3, in the
-syntax of XML DTDs, XML Schema, and RELAX NG schema. In addition, the
-archive file includes the HTML and PDF editions of the primary three
-sections of the specification, as well as a Compressed Help Metafile
-(CHM) distribution of the specification. The DITA XML source code of
-the specification -- in DITA 1.3 XML syntax -- is also provided, in
-the same archive file.
+the DITA 1.3 specification, as
+[published -- in a combined format][dita-1.3-zip] -- within a "Zip"
+archive file available via the OASIS DITA TC. The same archive file --
+available at approimately 47 megabytes, in compressed form -- includes
+formal schema or _grammars_ for DITA 1.3, in the syntax of XML DTDs,
+XML Schema, and RELAX NG schema. In addition, the archive file
+includes HTML and PDF editions of the primary three sections of
+the specification, as well as a Compressed Help Metafile (CHM)
+distribution of the specification. The DITA XML source code of the
+specification -- in DITA 1.3 XML syntax -- is also provided, in the
+same archive file.
 
-This repository is provided in the interest of facilitating a
+This repository is provided in the interest of facilitating the
 distribution of the DITA 1.3 schema for applications in XML editing
-workflows, principally in a manner independent of any single
-commercial vendor platform for DITA applications.
+workflows, such as may be applied in a manner principally independent
+of any single commercial vendor platform for DITA applications.
 
 ## More Information
 
