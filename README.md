@@ -1,9 +1,12 @@
 # Schema for DITA 1.3 - Unofficial Mirror of All-Inclusive Grammars for DITA 1.3, Sourced via DITA TC at OASIS
 
+
 ## Project Information
 
 Project: `dita-schema`
+
 Source Code Repository: [`https://github.com/jsesci/dita-schema`](https://github.com/jsesci/dita-schema)
+
 
 ## Synopsis
 
@@ -16,11 +19,11 @@ as including all three parts of the specification.
 The parts of the DITA 1.3 specification are available as follows:
 
 * Darwin Information Typing Architecture (DITA) Version 1.3 Part 0:
-  **Overview** [(HTML)][[dita-1.3-p0-html]][(PDF)][[dita-1.3-p0-pdf]
+  **Overview** [(HTML)][dita-1.3-p0-html]][(PDF)][dita-1.3-p0-pdf]
 * Darwin Information Typing Architecture (DITA) Version 1.3 Part 1:
-  **Base Edition**  [(HTML)][[dita-1.3-p1-html]][(PDF)][[dita-1.3-p1-pdf]
+  **Base Edition**  [(HTML)][dita-1.3-p1-html][(PDF)][dita-1.3-p1-pdf]
 * Darwin Information Typing Architecture (DITA) Version 1.3 Part 2:
-  **Technical Content Edition** [(HTML)][[dita-1.3-p2-html]][(PDF)][[dita-1.3-p2-pdf]
+  **Technical Content Edition** [(HTML)][dita-1.3-p2-html][(PDF)][dita-1.3-p2-pdf]
 
 The _All-Inclusive_ edition is available as follows
 
