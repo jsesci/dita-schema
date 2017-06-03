@@ -15,11 +15,11 @@ as including all three parts of the specification.
 
 The parts of the DITA 1.3 specification are available as follows:
 
-* Darwin Information Typing Architecture (DITA) Version 1.3 Part 0: 
+* Darwin Information Typing Architecture (DITA) Version 1.3 Part 0:
   **Overview** [(HTML)][[dita-1.3-p0-html]][(PDF)][[dita-1.3-p0-pdf]
-* Darwin Information Typing Architecture (DITA) Version 1.3 Part 1: 
+* Darwin Information Typing Architecture (DITA) Version 1.3 Part 1:
   **Base Edition**  [(HTML)][[dita-1.3-p1-html]][(PDF)][[dita-1.3-p1-pdf]
-* Darwin Information Typing Architecture (DITA) Version 1.3 Part 2: 
+* Darwin Information Typing Architecture (DITA) Version 1.3 Part 2:
   **Technical Content Edition** [(HTML)][[dita-1.3-p2-html]][(PDF)][[dita-1.3-p2-pdf]
 
 The _All-Inclusive_ edition is available as follows
@@ -62,8 +62,8 @@ of copyright.
 > (the "OASIS IPR Policy"). The full Policy may be found at the OASIS
 > website.
 >
-> This document and translations of it may be copied and furnished to 
-> others, and derivative works that comment on or otherwise explain it 
+> This document and translations of it may be copied and furnished to
+> others, and derivative works that comment on or otherwise explain it
 > or assist in its implementation may be prepared, copied, published,
 > and distributed, in whole or in part, without restriction of any
 > kind, provided that the above copyright notice and this section are
@@ -96,6 +96,4 @@ OASIS Standard, approved 17 December 2015.
 [dita-1.3-allinc-pdf]: http://docs.oasis-open.org/dita/dita/v1.3/os/part0-overview/dita-v1.3-os-part3-all-inclusive.pdf
 [dita-1.3-zip]: http://docs.oasis-open.org/dita/dita/v1.3/os/dita-v1.3-os.zip
 [dita-1.3]: http://docs.oasis-open.org/dita/dita/v1.3/os/part0-overview/dita-v1.3-os-part0-overview.html
-[dita-3ed]:http://docs.oasis-open.org/dita/dita-1.3-why-three-editions/v1.0/dita-1.3-why-three-editions-v1.0.html)
-
-
+[dita-3ed]: http://docs.oasis-open.org/dita/dita-1.3-why-three-editions/v1.0/dita-1.3-why-three-editions-v1.0.html
