@@ -19,7 +19,7 @@ as including all three parts of the specification.
 The parts of the DITA 1.3 specification are available as follows:
 
 * Darwin Information Typing Architecture (DITA) Version 1.3 Part 0:
-  **Overview** [(HTML)][dita-1.3-p0-html]][(PDF)][dita-1.3-p0-pdf]
+  **Overview** [(HTML)][dita-1.3-p0-html][(PDF)][dita-1.3-p0-pdf]
 * Darwin Information Typing Architecture (DITA) Version 1.3 Part 1:
   **Base Edition**  [(HTML)][dita-1.3-p1-html][(PDF)][dita-1.3-p1-pdf]
 * Darwin Information Typing Architecture (DITA) Version 1.3 Part 2:
